@@ -1,0 +1,6 @@
+*.npy
+*.csv
+/datasets/scaling_params.json
+hidden_runs
+libtorch
+runs
