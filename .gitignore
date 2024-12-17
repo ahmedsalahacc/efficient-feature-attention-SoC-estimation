@@ -4,3 +4,7 @@
 hidden_runs
 libtorch
 runs
+/venv
+/venv/*
+__pycache__
+*/__pycache__/*
