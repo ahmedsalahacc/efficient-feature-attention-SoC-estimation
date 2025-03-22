@@ -1,0 +1,4 @@
+learning_rate: 0.001
+batch_size: 2048
+epochs: 100
+early_stopping_patience: 10
