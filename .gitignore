@@ -1,6 +1,6 @@
 # bloated datafiles
-/data/*
-/data/*
+/data/*.zip
+/data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
